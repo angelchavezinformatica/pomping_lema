@@ -67,7 +67,7 @@ En especifico, este programa aplica el Lema de Bombeo para el lenguaje L = {a^n 
 
 Haremos todo lo posible para responder a tus consultas en un plazo de 48 horas.
 
-¡Gracias por utilizar nuestro Analizador léxico simple!
+¡Gracias por utilizar nuestra implementación del Lema del bombeo para lenguajes sensibles al contexto!
 
 ### Contribuidores
 
